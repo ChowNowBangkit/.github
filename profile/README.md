@@ -19,3 +19,7 @@ Explore Diverse Menus: Browse through a variety of dishes from local restaurants
 | Muhammad Firdaus Anvi Putra     | C004D4KY02434  | Institute of Technology Sepuluh November               | Cloud Computing      |
 | Nadaa Shafa Nadhifa | A006D4KX4583  | Brawijaya University | Mobile Development       |
 | Akbar Khaerullah     | A340D4KY4049 | STMIK IDS                   | Mobile Development            |
+
+
+this is Repo for the ChowNow App
+https://github.com/dawnhazed/chowNow
