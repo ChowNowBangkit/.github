@@ -1,6 +1,8 @@
 # ChowNow
 
-![Logo ChowNow](https://github.com/ChowNowBangkit/.github/blob/main/profile/ChowNow%20Logo.jpg)
+<p align="center">
+  <img src="https://github.com/ChowNowBangkit/.github/blob/main/profile/ChowNow%20Logo.jpg" alt="Logo ChowNow">
+</p>
 
 ChowNow is a user-friendly app that simplifies finding nearby restaurants based on your preferences and allows you to pre-order meals, saving you time and avoiding long lines.
 Explore Diverse Menus: Browse through a variety of dishes from local restaurants.
